@@ -5,7 +5,7 @@ nav: true
 nav_order: 4
 ---
 <script>
-  window.location.href = "https://francescodibetta.github.io/notebook/";
+  window.location.href = "https://francescodibetta.github.io/notebook";
 </script>
 
 <div style="text-align: center; padding-top: 50px;">
