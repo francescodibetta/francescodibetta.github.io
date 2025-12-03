@@ -41,7 +41,7 @@ linkedin_username: francesco-di-betta-78702a243 # your LinkedIn user name
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
-strava_userid: 82453081 # your strava user id
+
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
@@ -56,3 +56,4 @@ custom_social: # can be any name here other than the ones already defined above
   logo: philpapers.svg # MUST match a file in assets/img/
   title: PhilPapers
   url: https://philpeople.org/profiles/francesco-di-betta-1
+strava_userid: 82453081 # your strava user id
