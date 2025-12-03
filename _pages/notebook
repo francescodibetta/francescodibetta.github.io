@@ -1,11 +1,14 @@
 ---
 layout: page
 title: notebook
-permalink: /notes/
 nav: true
 nav_order: 4
 ---
-<meta http-equiv="refresh" content="0; url=https://francescodibetta.github.io/notebook/" />
+<script>
+  window.location.href = "https://francescodibetta.github.io/notebook/";
+</script>
 
-<p>Redirecting to notebook...</p>
-<p><a href="https://francescodibetta.github.io/notebook/">Click here</a> if you are not redirected.</p>
+<div style="text-align: center; padding-top: 50px;">
+  <p>Redirecting to Notebook...</p>
+  <p><a href="https://francescodibetta.github.io/notebook/">Click here if you are not redirected.</a></p>
+</div>
