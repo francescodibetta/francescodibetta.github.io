@@ -479,11 +479,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/francesco-di-betta-78702a243", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-philpapers_url',
+        title: 'Philpapers_url',
         section: 'Socials',
         handler: () => {
-          window.open("https://philpeople.org/profiles/francesco-di-betta-1", "_blank");
+          window.open("", "_blank");
         },
       },{
         id: 'social-strava',
