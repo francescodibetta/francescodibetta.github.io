@@ -48,6 +48,8 @@
       <a href="https://www.linkedin.com/in/{{ social[1] }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
     {% when 'mastodon_username' %}
       <a rel="me" href="https://{{ social[1] }}" title="Mastodon"><i class="fa-brands fa-mastodon"></i></a>
+    {% when 'philpapers_url' %}
+      <a href="{{ social[1] }}" title="PhilPapers"><i class="ai ai-philpapers"></i></a>
     {% when 'medium_username' %}
       <a href="https://medium.com/@{{ social[1] }}" title="Medium"><i class="fa-brands fa-medium"></i></a>
     {% when 'orcid_id' %}
