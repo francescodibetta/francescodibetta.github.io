@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I am a PhD Student at the [University School for Advanced Studies IUSS](https://www.iusspavia.it/en) in Pavia (Italy), and member of the [DeEP Project](https://lucazanetti91-nhigo.wpcomstaging.com/), funded by the Italian Science Fund (FIS) and led by Dr. Luca Zanetti. My main research interests are epistemology and formal epistemology. My PhD project challenges the pluralism of “epistemic risk” conceptions from the perspective of belief revision theory.
+Welcome to my website! I am a PhD Student in Philosophy at the [University School for Advanced Studies IUSS](https://www.iusspavia.it/en) in Pavia (Italy), and member of the [DeEP Project](https://lucazanetti91-nhigo.wpcomstaging.com/), funded by the Italian Science Fund (FIS) and led by Dr. Luca Zanetti. My main research interests are epistemology and formal epistemology. My PhD project challenges the pluralism of “epistemic risk” conceptions from the perspective of belief revision theory.
 
 This website serves as my **personal page**, hosting my CV, research, and talks. I also maintain a **personal notebook** [here](https://francescodibetta.github.io/notebook/), which serves as a living document for my literature notes, teaching materials, and drafts. Please feel free to explore and use these resources -- and if you spot any errors, I would be grateful for a heads-up at [francesco.dibetta@iusspavia.it](mailto:francesco.dibetta@iusspavia.it)!
