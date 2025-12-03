@@ -28,8 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website! I am a PhD Student at the [University School for Advanced Studies IUSS](https://www.iusspavia.it/en) in Pavia (Italy). My main research interests lie in epistemology and formal epistemology. My current PhD project consists in challenging the pluralism of conceptions of “epistemic risk” by means of belief revision theory.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This website serves as my **personal page**, hosting my CV, research, and talks. I also maintain a **personal notebook** [here](https://francescodibetta.github.io/notebook/), which serves as a living document for my literature notes, teaching materials, and drafts. Please feel free to explore and use these resources -- and if you spot any errors, I would be grateful for a heads-up at [francesco.dibetta@iusspavia.it](mailto:francesco.dibetta@iusspavia.it)!
