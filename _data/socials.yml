@@ -26,7 +26,7 @@ email: francesco.dibetta@iusspavia.it # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
- linkedin_username: francesco-di-betta-78702a243/# your LinkedIn user name
+linkedin_username: francesco-di-betta-78702a243 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -41,7 +41,7 @@ email: francesco.dibetta@iusspavia.it # your email address
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
- strava_userid: 82453081 # your strava user id
+strava_userid: 82453081 # your strava user id
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
@@ -53,6 +53,6 @@ email: francesco.dibetta@iusspavia.it # your email address
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: philpapers # can be png, svg, jpg
+  logo: philpapers.svg # MUST match a file in assets/img/
   title: PhilPapers
   url: https://philpeople.org/profiles/francesco-di-betta-1
