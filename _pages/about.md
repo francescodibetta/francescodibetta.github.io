@@ -32,6 +32,6 @@ Welcome to my website! I am a PhD Student in Philosophy at the [University Schoo
 
 Before starting my doctoral studies, I earned my MA from the University of Milan and my BA from the University of Pavia. I am also an alumnus of the [Ghislieri College](https://www.ghislieri.it/) and hold a Diploma from IUSS Pavia.
 
-This website serves as my **personal page**, hosting my CV, research, and talks. I also maintain a **personal notebook** [here](https://francescodibetta.github.io/notebook/), which serves as a living document for my literature notes, teaching materials, and drafts. Please feel free to explore and use these resources -- and if you spot any errors, I would be grateful for a heads-up at [francesco.dibetta@iusspavia.it](mailto:francesco.dibetta@iusspavia.it)!
+This website serves as my **personal page**, hosting my CV, research, and talks. I also maintain a personal notebook (see [this link](https://francescodibetta.github.io/notebook/) or the navigation bar), which serves as a living document for my literature notes, teaching materials, and drafts. Please feel free to explore and use these resources -- and if you spot any errors, I would be grateful for a heads-up at [francesco.dibetta@iusspavia.it](mailto:francesco.dibetta@iusspavia.it)!
 
 Outside of academia, I try to keep creative by playing the guitar and taking photos -- mostly street and landscape shots. I am also an enthusiastic (if amateur) runner. Proof of my amateur athletic career can be found on my Strava profile below.
