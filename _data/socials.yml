@@ -52,8 +52,9 @@ linkedin_username: francesco-di-betta-78702a243 # your LinkedIn user name
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://github.com/jpswalsh/academicons/blob/master/svg/philpapers.svg # MUST match a file in assets/img/
-  title: PhilPapers
-  url: https://philpeople.org/profiles/francesco-di-betta-1
+#custom_social: # can be any name here other than the ones already defined above
+#  logo: https://github.com/jpswalsh/academicons/blob/master/svg/philpapers.svg # MUST match a file in assets/img/
+#  url: https://philpeople.org/profiles/francesco-di-betta-1
+#  title: PhilPapers
+philpapers_url: https://philpeople.org/profiles/francesco-di-betta-1
 strava_userid: 82453081 # your strava user id
