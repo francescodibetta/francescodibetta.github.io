@@ -518,18 +518,18 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/francesco-di-betta-78702a243", "_blank");
         },
       },{
-        id: 'social-strava',
-        title: 'Strava',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.strava.com/athletes/82453081", "_blank");
-        },
-      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
           window.open("https://philpeople.org/profiles/francesco-di-betta-1", "_blank");
+        },
+      },{
+        id: 'social-strava',
+        title: 'Strava',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.strava.com/athletes/82453081", "_blank");
         },
       },{
       id: 'light-theme',
