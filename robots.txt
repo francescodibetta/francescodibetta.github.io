@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://francescodibetta.github.io/al-folio/sitemap.xml
+Sitemap: https://francescodibetta.github.io/sitemap.xml
