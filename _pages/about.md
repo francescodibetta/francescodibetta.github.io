@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>PhD Student</p>
-    <p>University School for Advanced Studies IUSS</p>
+    <p>IUSS Pavia</p>
     <p>Piazza della Vittoria, 15</p>
     <p>27100 Pavia, Italy</p>
 
