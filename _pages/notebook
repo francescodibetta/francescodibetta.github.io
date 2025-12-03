@@ -5,6 +5,7 @@ permalink: https://francescodibetta.github.io/notebook/
 nav: true
 nav_order: 4
 ---
+
 <script>
   window.location.href = "https://francescodibetta.github.io/notebook";
 </script>
