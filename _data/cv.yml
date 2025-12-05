@@ -2,96 +2,109 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Francesco Di Betta
     - name: Languages
-      value: English, German
+      value: Italian (Native), English (IELTS 8)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Philosophy
+      institution: University School for Advanced Studies IUSS Pavia; MCMP (LMU Munich)
+      year: Oct 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Dissertation: Belief Revision under Epistemic Risk."
+        - "Supervisors: Dr. Luca Zanetti (IUSS), Prof. Dr. Dr. Hannes Leitgeb (LMU)."
+    - title: Diploma in Humanities (eq. to Master's)
+      institution: University School for Advanced Studies IUSS Pavia
+      year: 2022 - 2025
       description:
-        - Description 1.
-        - Description 2.
+        - "Dissertation: Normality: Probabilistic and Otherwise."
+        - "Supervisors: Dr. Luca Zanetti, Prof. Bernhard Salow (Oxford)."
+    - title: MA in Philosophy
+      institution: University of Milan "Statale"
+      year: 2022 - 2024
+      description:
+        - "Dissertation: Relativism and Disagreement."
+        - "Supervisors: Prof. Andrea Borghini, Prof. Tommaso Piazza, Prof. Max Kölbel."
+    - title: Ghislieri College Student
+      institution: Ghislieri College, Pavia
+      year: 2019 - 2024
+      description:
+        - "Merit-based institution under the patronage of the President of the Italian Republic."
+    - title: BA in Philosophy
+      institution: University of Pavia
+      year: 2019 - 2022
+      description:
+        - "Dissertation: Knowledge and Sensitivity."
+        - "Supervisors: Prof. Tommaso Piazza, Prof. Alexander Bird (Cambridge)."
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Visiting Student
+      institution: MCMP, Munich (Germany)
+      year: Oct 2024 - Mar 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Supervisor: Prof. Hannes Leitgeb."
+    - title: Research Fellow
+      institution: University of Vienna (Austria)
+      year: Apr 2024 - Jul 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - "Supervisor: Prof. Max Kölbel."
+    - title: Visiting Student
+      institution: St Hugh's College, Oxford (UK)
+      year: Jan 2024 - Apr 2024
       description:
+        - "Supervisor: Prof. Timothy Williamson."
+    - title: Visiting Student
+      institution: St John's College, Cambridge (UK)
+      year: Aug 2022 - Sep 2022
+      description:
+        - "Supervisor: Prof. Alexander Bird."
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Leadership & Volunteering
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Board Member
+      institution: Ghislieri College Foundation
+      year: 2021 - 2023
+      description:
+        - Co-led the establishment of a psychological service with Jonas Pavia for students.
+        - Contributed to the design of the "Vetrina del merito" networking platform.
+    - title: Volunteer Tutor
+      institution: "Bimbo chiama bimbo" ONLUS, Brescia
+      year: 2017 - 2019
+      description:
+        - Tutoring for elementary school children of non-Italian origin.
+    - title: Volunteer Museum Guide
+      institution: FAI Spring Days, Brescia
+      year: Jan, May 2018
+      description:
+        - Tour guide at Palazzo Poncarali-Oldofredi and Palazzo della Loggia.
 
-- title: Honors and Awards
+- title: Awards & Scholarships
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Travel stipend - University of Milan (€2,500)
+        - Research contribution - IUSS Pavia (€4,150)
+    - year: 2023
       items:
-        - Max Planck Medal
+        - MA dissertation award - IUSS Pavia (€1,950)
+        - Research contribution - University of Milan (€2,400)
+        - Scholarship to St Hugh's College (Oxford) - Ghislieri College (fees and living)
+    - year: 2022
+      items:
+        - MA full-ride scholarship - IUSS Pavia (university and college fees, living)
+        - Scholarship to St John's College (Cambridge) - Ghislieri College (fees and living)
+    - year: 2019
+      items:
+        - One-year tuition-free scholarship - University of Pavia (tuition fees)
+        - High school award - Lombardy Region (€500)
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Technical Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Coding:</u> Python (numpy, pandas, matplotlib), LaTeX, GitHub.
