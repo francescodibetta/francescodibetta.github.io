@@ -4,25 +4,25 @@
     - name: Full Name
       value: Francesco Di Betta
     - name: Languages
-      value: Italian (Native), English (IELTS 8)
+      value: "Italian (Native), English (C1/IELTS 8), Spanish (B2), Latin, Ancient Greek"
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Philosophy
-      institution: University School for Advanced Studies IUSS Pavia; MCMP (LMU Munich)
+      institution: "University School for Advanced Studies IUSS Pavia; MCMP (LMU Munich)"
       year: Oct 2025 - Present
       description:
         - "Dissertation: Belief Revision under Epistemic Risk."
         - "Supervisors: Dr. Luca Zanetti (IUSS), Prof. Dr. Dr. Hannes Leitgeb (LMU)."
-    - title: Diploma in Humanities (eq. to Master's)
+    - title: "Diploma in Humanities (eq. to Master's)"
       institution: University School for Advanced Studies IUSS Pavia
       year: 2022 - 2025
       description:
         - "Dissertation: Normality: Probabilistic and Otherwise."
         - "Supervisors: Dr. Luca Zanetti, Prof. Bernhard Salow (Oxford)."
     - title: MA in Philosophy
-      institution: University of Milan "Statale"
+      institution: 'University of Milan "Statale"'
       year: 2022 - 2024
       description:
         - "Dissertation: Relativism and Disagreement."
@@ -53,12 +53,12 @@
       description:
         - "Supervisor: Prof. Max Kölbel."
     - title: Visiting Student
-      institution: St Hugh's College, Oxford (UK)
+      institution: "St Hugh's College, Oxford (UK)"
       year: Jan 2024 - Apr 2024
       description:
         - "Supervisor: Prof. Timothy Williamson."
     - title: Visiting Student
-      institution: St John's College, Cambridge (UK)
+      institution: "St John's College, Cambridge (UK)"
       year: Aug 2022 - Sep 2022
       description:
         - "Supervisor: Prof. Alexander Bird."
@@ -66,45 +66,54 @@
 - title: Leadership & Volunteering
   type: time_table
   contents:
+    - title: Seminar Co-organizer (Formal Epistemology)
+      institution: "Invited speaker: Prof. Bernhard Salow (Oxford)"
+      year: May 2025
     - title: Board Member
       institution: Ghislieri College Foundation
       year: 2021 - 2023
       description:
-        - Co-led the establishment of a psychological service with Jonas Pavia for students.
-        - Contributed to the design of the "Vetrina del merito" networking platform.
+        - "Co-led the establishment of a psychological service with Jonas Pavia for students."
+        - "Contributed to the design of the 'Vetrina del merito' networking platform."
+    - title: Seminar Co-organizer (Non-Classical Logics)
+      institution: "Speakers: Prof. F. Paoli, Prof. P. Minari"
+      year: Apr 2023
+    - title: Seminar Co-organizer (Philosophy of ICTs)
+      institution: "Speakers: Prof. C. Vercellone, Prof. B. Caraway, Prof. C. Ess"
+      year: Dec 2021
     - title: Volunteer Tutor
-      institution: "Bimbo chiama bimbo" ONLUS, Brescia
+      institution: '"Bimbo chiama bimbo" ONLUS, Brescia'
       year: 2017 - 2019
       description:
-        - Tutoring for elementary school children of non-Italian origin.
+        - "Tutoring for elementary school children of non-Italian origin."
     - title: Volunteer Museum Guide
       institution: FAI Spring Days, Brescia
-      year: Jan, May 2018
+      year: "Jan, May 2018"
       description:
-        - Tour guide at Palazzo Poncarali-Oldofredi and Palazzo della Loggia.
+        - "Tour guide at Palazzo Poncarali-Oldofredi and Palazzo della Loggia."
 
 - title: Awards & Scholarships
   type: time_table
   contents:
     - year: 2024
       items:
-        - Travel stipend - University of Milan (€2,500)
-        - Research contribution - IUSS Pavia (€4,150)
+        - "Travel stipend - University of Milan (€2,500)"
+        - "Research contribution - IUSS Pavia (€4,150)"
     - year: 2023
       items:
-        - MA dissertation award - IUSS Pavia (€1,950)
-        - Research contribution - University of Milan (€2,400)
-        - Scholarship to St Hugh's College (Oxford) - Ghislieri College (fees and living)
+        - "MA dissertation award - IUSS Pavia (€1,950)"
+        - "Research contribution - University of Milan (€2,400)"
+        - "Scholarship to St Hugh's College (Oxford) - Ghislieri College"
     - year: 2022
       items:
-        - MA full-ride scholarship - IUSS Pavia (university and college fees, living)
-        - Scholarship to St John's College (Cambridge) - Ghislieri College (fees and living)
+        - "MA full-ride scholarship - IUSS Pavia"
+        - "Scholarship to St John's College (Cambridge) - Ghislieri College"
     - year: 2019
       items:
-        - One-year tuition-free scholarship - University of Pavia (tuition fees)
-        - High school award - Lombardy Region (€500)
+        - "One-year tuition-free scholarship - University of Pavia"
+        - "High school award - Lombardy Region (€500)"
 
 - title: Technical Skills
   type: list
   contents:
-    - <u>Coding:</u> Python (numpy, pandas, matplotlib), LaTeX, GitHub.
+    - "<u>Coding:</u> Python (numpy, pandas, matplotlib), LaTeX, GitHub."
