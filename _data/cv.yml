@@ -4,7 +4,7 @@
     - name: Full Name
       value: Francesco Di Betta
     - name: Languages
-      value: "Italian (Native), English (C1/IELTS 8), Spanish (B2), Latin, Ancient Greek"
+      value: "Italian (Native), English (IELTS 8)"
 
 - title: Education
   type: time_table
@@ -66,21 +66,12 @@
 - title: Leadership & Volunteering
   type: time_table
   contents:
-    - title: Seminar Co-organizer (Formal Epistemology)
-      institution: "Invited speaker: Prof. Bernhard Salow (Oxford)"
-      year: May 2025
     - title: Board Member
       institution: Ghislieri College Foundation
       year: 2021 - 2023
       description:
         - "Co-led the establishment of a psychological service with Jonas Pavia for students."
         - "Contributed to the design of the 'Vetrina del merito' networking platform."
-    - title: Seminar Co-organizer (Non-Classical Logics)
-      institution: "Speakers: Prof. F. Paoli, Prof. P. Minari"
-      year: Apr 2023
-    - title: Seminar Co-organizer (Philosophy of ICTs)
-      institution: "Speakers: Prof. C. Vercellone, Prof. B. Caraway, Prof. C. Ess"
-      year: Dec 2021
     - title: Volunteer Tutor
       institution: '"Bimbo chiama bimbo" ONLUS, Brescia'
       year: 2017 - 2019
@@ -103,14 +94,14 @@
       items:
         - "MA dissertation award - IUSS Pavia (€1,950)"
         - "Research contribution - University of Milan (€2,400)"
-        - "Scholarship to St Hugh's College (Oxford) - Ghislieri College"
+        - "Scholarship to St Hugh's College (Oxford) - Ghislieri College (fees and living)"
     - year: 2022
       items:
-        - "MA full-ride scholarship - IUSS Pavia"
-        - "Scholarship to St John's College (Cambridge) - Ghislieri College"
+        - "MA full-ride scholarship - IUSS Pavia (university and college fees, living)"
+        - "Scholarship to St John's College (Cambridge) - Ghislieri College (fees and living)"
     - year: 2019
       items:
-        - "One-year tuition-free scholarship - University of Pavia"
+        - "One-year tuition-free scholarship - University of Pavia (tuition fees)"
         - "High school award - Lombardy Region (€500)"
 
 - title: Technical Skills
