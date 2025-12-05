@@ -29,8 +29,8 @@
   },
   "education": [
     {
-      "institution": "University School for Advanced Studies IUSS Pavia; MCMP (LMU Munich)",
-      "location": "Pavia, Italy / Munich, Germany",
+      "institution": "University School for Advanced Studies IUSS Pavia",
+      "location": "Pavia, Italy",
       "url": "https://www.iusspavia.it/en",
       "area": "Philosophy",
       "studyType": "PhD",
@@ -39,7 +39,7 @@
       "score": "",
       "courses": [
         "Dissertation: Belief Revision under Epistemic Risk",
-        "Supervisors: Dr. Luca Zanetti (IUSS), Prof. Dr. Dr. Hannes Leitgeb (LMU)"
+        "Supervisor: Dr. Luca Zanetti (IUSS)"
       ]
     },
     {
@@ -71,19 +71,6 @@
       ]
     },
     {
-      "institution": "Ghislieri College",
-      "location": "Pavia, Italy",
-      "url": "https://www.ghislieri.it/",
-      "area": "Merit-based Institution",
-      "studyType": "Student",
-      "startDate": "2019-09-01",
-      "endDate": "2024-07-01",
-      "score": "",
-      "courses": [
-        "Patronage of the President of the Italian Republic"
-      ]
-    },
-    {
       "institution": "University of Pavia",
       "location": "Pavia, Italy",
       "url": "https://web.unipv.it/",
@@ -98,7 +85,7 @@
       ]
     }
   ],
-  "visiting": [
+  "work": [
     {
       "name": "MCMP, Munich",
       "position": "Visiting Student",
@@ -144,8 +131,9 @@
       "url": "",
       "startDate": "2021-08-01",
       "endDate": "2023-07-01",
-      "summary": "Actively engaged in monthly Board meetings.",
+      "summary": "",
       "highlights": [
+        "Actively engaged in monthly Board meetings.",
         "Co-led establishment of psychological service with Jonas Pavia",
         "Contributed to 'Vetrina del merito' networking platform design"
       ]
@@ -248,19 +236,4 @@
         "GitHub"
       ]
     }
-  ],
-  "languages": [
-    {
-      "language": "Italian",
-      "fluency": "Native Speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "C1 / IELTS Band 8"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "B2"
-    }
   ]
-}
