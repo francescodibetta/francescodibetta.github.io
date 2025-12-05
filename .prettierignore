@@ -19,3 +19,4 @@ assets/css/main.scss
 _data/cv.yml
 assets/pdf/cv.pdf
 _pages/cv.md
+assets/json/resume.json
