@@ -16,3 +16,4 @@ _includes/social.liquid
 _pages/notebook-link.html
 _pages/talks.md
 assets/css/main.scss
+_data/cv.yml
