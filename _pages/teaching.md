@@ -15,5 +15,7 @@ nav_order: 4
 
 ### Community Outreach
 
-- _Critical Thinking_, "Arnaldo" High School, Brescia. 
+#### 2026
+
+- *Critical Thinking*, "Arnaldo" High School, Brescia [TBC]. 
 
