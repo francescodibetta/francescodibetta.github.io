@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description: ""
 nav: true
 nav_order: 4
 ---
@@ -17,5 +17,4 @@ nav_order: 4
 
 #### 2026
 
-- *Critical Thinking*, "Arnaldo" High School, Brescia [TBC]. 
-
+- *Critical Thinking*, "Arnaldo" High School, Brescia [TBC].
