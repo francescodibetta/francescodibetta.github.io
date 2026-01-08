@@ -9,7 +9,7 @@ nav_order: 3
 
 ### Talks & Presentations
 
--  **No Sharp Beliefs** (with Prof. Martin Smith); IUSS Pavia ("Work in Progress" presentation), Nov 18, 2025.
+-  **No Sharp Beliefs**; IUSS Pavia ("Work in Progress" presentation, with Prof. Martin Smith), Nov 18, 2025.
 -  **No Role for Sensitivity**; IUSS Pavia ("Work in Progress" presentation), May 15, 2025.
 -  **Can Epistemically Possible Worlds Rescue Sensitivity?**; Irish Philosophical Society *Online Spring Seminars*, Mar 1, 2023.
 -  **Can Epistemically Possible Worlds Rescue Sensitivity?**; Ghislieri (Pavia, IT) -- St John's (Cambridge, UK) *Research Day*, Pavia, Italy, Nov 11, 2022.
