@@ -7,6 +7,6 @@ inline: false
 related_posts: false
 ---
 
-I am happy to share that I have been invited by [Lilith Mace](https://www.lilithmace.com/) (Glasgow) and [Martin Smith](https://edwebprofiles.ed.ac.uk/profile/martin-smith) (Edinburgh) to present my work at the upcoming conference, "Between Probability and Certainty: 10 Years on." The event commemorates the tenth anniversary of the publication of [Martin’s book](https://academic.oup.com/book/9090).
+I’m really happy to share that I’ve been invited by [Lilith Mace](https://www.lilithmace.com/) (Glasgow) and [Martin Smith](https://edwebprofiles.ed.ac.uk/profile/martin-smith) (Edinburgh) to present my work at the upcoming conference, "Between Probability and Certainty: 10 Years on." It’s a special event marking the tenth anniversary of the publication of [Martin’s book](https://academic.oup.com/book/9090), and I’m honored to be part of it.
 
-I will be presenting a paper I am currently developing regarding some unexpected consequences of Martin's theory when applied to modeling a rational agent forming beliefs about continuous quantities via measuring instruments.
+I’ll be presenting a paper I’m currently working on regarding some unexpected consequences of Martin's theory—specifically how it behaves when an agent forms beliefs about continuous quantities through measuring instruments. Really looking forward to the discussion!
