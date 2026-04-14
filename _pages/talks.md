@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-### talks & presentations
+### talks
 
 **(\*)** = invited talk*
 
