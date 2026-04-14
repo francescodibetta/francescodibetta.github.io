@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-### As Teaching Assistant
+### as teaching assistant
 
 #### 2025-2026
 
@@ -16,7 +16,7 @@ nav_order: 4
 
 <br> 
 
-### Community Outreach
+### community outreach
 
 #### 2026
 
