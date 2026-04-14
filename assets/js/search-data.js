@@ -420,10 +420,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20251205/";
-            },},{id: "news-just-a-quick-update-on-april-1-i-ll-be-presenting-a-work-in-progress-paper-on-peer-disagreement-and-network-epistemology-i-m-looking-forward-to-sharing-what-i-ve-been-working-on-if-you-d-like-to-see-more-details-about-the-event-you-can-check-this-link",
-          title: 'Just a quick update: on April 1, I’ll be presenting a work-in-progress paper...',
+            },},{id: "news-upcoming-talk-on-peer-disagreement-and-network-epistemology",
+          title: 'Upcoming talk on Peer Disagreement and Network Epistemology',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20260401/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
