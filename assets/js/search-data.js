@@ -425,7 +425,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260401/";
-            },},{id: "projects-project-1",
+            },},{id: "news-i-m-really-happy-to-share-that-i-ve-been-selected-to-present-my-work-at-the-12th-european-congress-of-analytic-philosophy-ecap12-in-madrid-this-august",
+          title: 'I’m really happy to share that I’ve been selected to present my work...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
