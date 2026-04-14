@@ -21,7 +21,7 @@ nav_order: 3
 
 <br>
 
-### Organized Events
+### (Co-)Organized Events
 
 - **SILFS 2026 Triennial Conference** ([link](https://sites.google.com/view/silfs-2026-triennial?usp=sharing)); IUSS Pavia, Jun 29 - Jul 2 2026.
 - **Seminar in Formal Epistemology: Probable Knowledge and Rational Belief**; Invited Speaker: Prof. Bernhard Salow (University of Oxford); Pavia, May 6, 2025.
