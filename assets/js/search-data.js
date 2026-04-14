@@ -415,12 +415,7 @@ ninja.data = [{
             },},{id: "news-i-have-just-started-my-phd-at-deep",
           title: 'I have just started my PhD at DeEP!',
           description: "",
-          section: "News",},{id: "news-invited-talk-between-probability-and-certainty-10-years-on",
-          title: 'Invited Talk: Between Probability and Certainty: 10 Years On',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_20251205/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
