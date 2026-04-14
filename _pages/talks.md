@@ -9,7 +9,7 @@ nav_order: 3
 
 ### talks
 
-**(\*)** = invited talk*
+**(\*)** = invited talk
 
 - **No Sharp Beliefs**; 12th European Congress of Analytic Philosophy (ECAP 12), Madrid, Aug 2026 (*Upcoming*).
 - **No Sharp Beliefs (\*)**; “Between Probability and Certainty: 10 Years on”, Glasgow, Jun 5, 2026 (*Upcoming*).
