@@ -425,7 +425,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260401/";
-            },},{id: "news-i-m-really-happy-to-share-that-i-ve-been-selected-to-present-my-work-at-the-12th-european-congress-of-analytic-philosophy-ecap12-in-madrid-this-august",
+            },},{id: "news-i-m-really-happy-to-share-that-i-ve-been-selected-to-present-my-work-at-ecap12-in-madrid",
           title: 'I’m really happy to share that I’ve been selected to present my work...',
           description: "",
           section: "News",},{id: "news-my-contribution-in-epistemology-to-ecap12-has-been-awared-the-early-career-prize",
