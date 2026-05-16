@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-I’m really happy to share that I’ve been selected to present my work at the 12th European Congress of Analytic Philosophy ([ECAP12](https://analyticphilosophy.eu/ecap12/)) in Madrid this August.
+I’m really happy to share that I’ve been selected to present my work at [ECAP12](https://analyticphilosophy.eu/ecap12/) in Madrid!
