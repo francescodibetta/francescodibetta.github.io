@@ -11,10 +11,10 @@ nav_order: 3
 
 **(\*)** = invited talk
 
-- **No Sharp Beliefs**; 12th European Congress of Analytic Philosophy (ECAP 12), Madrid, Aug 2026 (*Upcoming*).
-- **No Sharp Beliefs (\*)**; “Between Probability and Certainty: 10 Years on”, Glasgow, Jun 5, 2026 (*Upcoming*).
+- **Probability, Normality, and Learning from Experience**; 12th European Congress of Analytic Philosophy, Madrid, Aug 2026 (*Upcoming*).
+- **Probability, Normality, and Learning from Experience**; SILFS2026 Triennial International Conference, Pavia, Jul 1, 2026 (*Upcoming*).
+- **Probability, Normality, and Learning from Experience (\*)**; “Between Probability and Certainty: 10 Years on”, Glasgow, Jun 5, 2026 (*Upcoming*).
 - **Simulating Disagreement: The Effects of Conciliationism and Network Topology on Opinion Dynamics**; IMT-IUSS Workshop on the Philosophy of Sciences, Lucca, Apr 1, 2026.
-- **No Sharp Beliefs**; IUSS Pavia "Work in Progress" presentation, with Prof. Martin Smith, Nov 18, 2025.
 - **No Role for Sensitivity**; IUSS Pavia "Work in Progress" presentation, May 15, 2025.
 - **Can Epistemically Possible Worlds Rescue Sensitivity?**; Irish Philosophical Society *Online Spring Seminars*, Mar 1, 2023.
 - **Can Epistemically Possible Worlds Rescue Sensitivity?**; Ghislieri (Pavia, IT) — St John's (Cambridge, UK) *Research Day*, Pavia, Italy, Nov 11, 2022.
