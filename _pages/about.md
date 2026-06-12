@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I am a PhD Student in Philosophy at the [University School for Advanced Studies IUSS](https://www.iusspavia.it/en) in Pavia (Italy) and the [Munich Center for Mathematical Philosophy](https://www.philosophie.lmu.de/mcmp/en/) in Munich (Germany). Also, I am a member of the [DeEP Project](https://lucazanetti91-nhigo.wpcomstaging.com/), funded by the Italian Science Fund (FIS) and led by Dr. [Luca Zanetti](https://www.iusspavia.it/en/contacts/luca-zanetti). My main research interests are epistemology and formal epistemology, and my PhD project challenges the pluralism of “epistemic risk” conceptions from the perspective of belief revision theory.
+Welcome to my website! I am a PhD Student in Philosophy at the [Munich Center for Mathematical Philosophy](https://www.philosophie.lmu.de/mcmp/en/) in Munich (Germany) and the [University School for Advanced Studies IUSS](https://www.iusspavia.it/en) in Pavia (Italy). Also, I am a member of the [DeEP Project](https://lucazanetti91-nhigo.wpcomstaging.com/), funded by the Italian Science Fund (FIS) and led by Dr. [Luca Zanetti](https://www.iusspavia.it/en/contacts/luca-zanetti). My main research interests are epistemology and formal epistemology, and my PhD project challenges the pluralism of “epistemic risk” conceptions from the perspective of belief revision theory.
 
 Before starting my doctoral studies, I earned my MA from the University of Milan and my BA from the University of Pavia. I am also an alumnus of the [Ghislieri College](https://www.ghislieri.it/) and hold a Diploma from IUSS Pavia.
 
