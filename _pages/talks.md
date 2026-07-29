@@ -12,7 +12,7 @@ nav_order: 3
 **(\*)** = invited talk
 
 - **Probability, Normality, and Learning from Experience**; 12th European Congress of Analytic Philosophy ([ECAP12](https://analyticphilosophy.eu/ecap12/)), Madrid, Aug 2026.
-- **Dominance and Independence in Spohn's Rank-Based Decision Theory**; [SILFS2026](https://sites.google.com/view/silfs-2026-triennial?usp=sharing) Triennial International Conference, Pavia.}
+- **Dominance and Independence in Spohn's Rank-Based Decision Theory**; [SILFS2026](https://sites.google.com/view/silfs-2026-triennial?usp=sharing) Triennial International Conference, Pavia, Jul 1, 2026.
 - **Probability, Normality, and Learning from Experience**; [SILFS2026](https://sites.google.com/view/silfs-2026-triennial?usp=sharing) Triennial International Conference, Pavia, Jul 1, 2026.
 - **Probability, Normality, and Learning from Experience (\*)**; “Between Probability and Certainty: 10 Years on”, Glasgow, Jun 5, 2026.
 - **Simulating Disagreement: The Effects of Conciliationism and Network Topology on Opinion Dynamics**; IMT-IUSS Workshop on the Philosophy of Sciences, Lucca, Apr 1, 2026.
